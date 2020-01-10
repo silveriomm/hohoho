@@ -1,3 +1,3 @@
 .ssh/*
-
 *local_config
+*.pyc
