@@ -14,7 +14,7 @@ class TestNoel(unittest.TestCase):
 		self.assertEqual(solution(1), "Ho!")
 
 	def test_two_Ho(self):
-		self.assertEqual(solution(1), "Ho Ho!")
+		self.assertEqual(solution(2), "Ho Ho!")
 
 
 unittest.main()

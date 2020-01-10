@@ -5,5 +5,8 @@
 
 """
 
-def solution(n):
-	return 'Ho!'
+def solution(num):
+	if num == 1:
+		return 'Ho!'
+
+	return 'Ho Ho!'
